@@ -42,4 +42,5 @@ Projeto terminado com sucesso! Implementado os métodos:
 1. Cadastrar veículo
 2. Remover veículo
 3. Listar veículos
-Também implementado algumas verificações para a placa digitada pelo usuário.
+
+Também implementado algumas verificações para a placa digitada pelo usuário, além de uma contagem de veículos estacionados.
