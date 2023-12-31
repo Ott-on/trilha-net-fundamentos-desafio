@@ -1,7 +1,7 @@
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
-## Desafio de projeto
+## Desafio de projeto - Proposto pela DIO
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
 ## Contexto
