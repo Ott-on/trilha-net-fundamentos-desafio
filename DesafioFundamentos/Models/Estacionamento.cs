@@ -30,7 +30,17 @@ namespace DesafioFundamentos.Models
                 }
             }while(tamanhoDaStringPlaca != 7);
             // Adicionando a placa do usuário na lista veiculos:
+            foreach(string item in veiculos)
+            {
+                if(item == placa)
+                {
+                    Console.WriteLine("Esta placa já existe no sistema.");
+                    return;
+                }
+            }
             veiculos.Add(placa);
+            Console.WriteLine("Placa adicionada com sucesso");
+            
         }
 
         public void RemoverVeiculo()
